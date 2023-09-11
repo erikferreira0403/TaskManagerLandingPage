@@ -1,0 +1,23 @@
+.container{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.898);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+
+.background-image{
+  background-repeat: no-repeat;
+  margin: 40px 0 40px 0;
+  width: 30vw;
+    height: 30vw;
+}
+
+.introduce{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  margin: 0 0 10vw 0;
+}
